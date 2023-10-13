@@ -42,15 +42,3 @@ alert(`Середнє аріфметичне функції calculateAverage = $
 
 
 
-// console.log(myArray.length)
-// console.log(`Середнє арифметичне чисел в масиві: ${average}`);
-
-// Array.prototype.remove = function (value) {
-//     this.splice(this.indexOf(value), 1);
-// }
-
-// var arr = [1, 2, 4, 2, 5];
-// var item = 2;
-
-// arr.remove(item);
-// console.log(arr);
